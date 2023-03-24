@@ -7,5 +7,5 @@ app.get('/', function(req, res){
 });
 
 let server = app.listen(8888, function(){
-    console.log("App us kustening on port 8888");
+    console.log("App us listening on port 8888");
 });
